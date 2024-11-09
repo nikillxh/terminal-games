@@ -1,0 +1,9 @@
+[package]
+name = "math_blitz"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "*"
+simple-home-dir = "*"
+chrono = "*"
